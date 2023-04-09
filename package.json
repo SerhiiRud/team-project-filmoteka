@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://BohdanMus.github.io/Filmoteka",
+  "homepage": "https://SerhiiRud.github.io/team-project-filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Filmoteka/"
+    "build": "parcel build src/*.html --public-url /team-project-filmoteka/"
   },
   "repository": {
     "type": "git",
